@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="clients">
+    <title>Clients</title>
+    <shortdesc>Browse Our Inventory of Stellar Candidates</shortdesc>
+    <conbody>
+        <p>Candidate 1</p>
+        <p>Candidate 2</p>
+        <p>Candidate 3</p>
+        <p>Candidate 4</p>
+        <p>Candidate 5</p>
+        <p>Candidate 6</p>
+    </conbody>
+</concept>
